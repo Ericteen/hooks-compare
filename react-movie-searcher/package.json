@@ -5,6 +5,7 @@
     "dev": "vite",
     "build": "vite build --base=/hooks-compare"
   },
+  "homepage":"https://ericteen.github.io/hooks-compare",
   "dependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
