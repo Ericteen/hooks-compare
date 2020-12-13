@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=./"
+    "build": "vite build --base='./'"
   },
   "homepage":"https://ericteen.github.io/hooks-compare",
   "dependencies": {
