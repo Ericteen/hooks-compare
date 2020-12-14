@@ -1,6 +1,18 @@
 ## Hooks Compare
 
-Implement a simple movie searcher app to compare the differences between react hooks and vue composition api.
+Implement a simple movie searcher app to compare the differences between React Hooks and Vue Composition API.
+
+This project leverages the power of [Vite](https://github.com/vitejs/vite) to build the boilerplate.
+
+## Preview
+
+react hooks version
+
+![react hooks](./preview/scrshot1.png)
+
+vue composition api version
+
+![vue composition api](./preview/scrshot2.png)
 
 ## Usage
 

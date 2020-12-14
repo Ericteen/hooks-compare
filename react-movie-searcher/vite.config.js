@@ -6,7 +6,12 @@ import reactPlugin from 'vite-plugin-react'
  */
 const config = {
   jsx: 'react',
-  plugins: [reactPlugin]
+  plugins: [reactPlugin],
+  assetsDir: './',
+  base: './',
+  indexHtmlTransforms: [
+    ({ code }) => code.replace(/Vite App/, 'React Movie Searcher')
+  ],
 }
 
 export default config
